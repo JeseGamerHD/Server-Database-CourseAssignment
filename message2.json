@@ -1,0 +1,8 @@
+{ "locationName" : "name", 
+"locationDescription": "desc", 
+"locationCity": "City", 
+"locationCountry":"country", 
+"locationStreetAddress":"address", 
+"originalPostingTime": "2022-02-17T21:09:51.113Z",
+"latitude": 65.0580507136066,
+"longitude": 25.469414591526057 }
